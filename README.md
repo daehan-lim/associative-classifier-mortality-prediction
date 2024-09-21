@@ -1,3 +1,10 @@
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange)](https://scikit-learn.org/stable/)
+[![pandas](https://img.shields.io/badge/pandas-Latest-brightgreen)](https://pandas.pydata.org/)
+[![numpy](https://img.shields.io/badge/numpy-Latest-lightgrey)](https://numpy.org/)
+[![mlxtend](https://img.shields.io/badge/mlxtend-0.23.1-yellow)](http://rasbt.github.io/mlxtend/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Associative Classifier for Patient Mortality Prediction
 
 ## Overview
