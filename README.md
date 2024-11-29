@@ -137,11 +137,6 @@ For a detailed analysis of the results and a comparison with other methods, plea
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- The eICU Collaborative Research Database for providing the dataset
-- The authors of CBA and CMAR for their foundational work in associative classification
-
 ## Contact
 
 For any questions or feedback, please open an issue on this GitHub repository.
