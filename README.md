@@ -19,6 +19,11 @@ This project implements a novel associative classifier designed to predict patie
 - Performance comparison with established methods (CBA, CMAR, Decision Trees)
 - Application to real-world healthcare data (eICU Collaborative Research Database)
 
+## Documentation
+
+- The complete research details are available in this [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KGNDtJUAAAAJ&citation_for_view=KGNDtJUAAAAJ:u-x6o8ySG0sC).
+- A comprehensive [presentation](docs/presentation.pdf) documenting the features and results of the classifier is also available.
+
 ## Background: Associative Classifiers
 
 Associative classifiers are a type of supervised learning algorithm that combines association rule mining with classification. They are particularly valuable in healthcare applications due to their high interpretability and readability. Unlike "black box" models such as neural networks, associative classifiers generate rules that can be easily understood and validated by domain experts.
